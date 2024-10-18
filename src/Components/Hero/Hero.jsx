@@ -7,12 +7,12 @@ const Hero = () => {
   return (
     <div className='hero'>
         <div className="hero-left">
-        <h2>NEW ARRIVALS ONLY akash</h2>
+        <h2>NEW ARRIVALS ONLY</h2>
         <div>
             <div className="hero-hand-icon">
                 <p>Make Your Fashion Look</p>
             </div>
-            <p className='change'>Mire <span className='color'>Charming</span></p>
+            <p className='change'>Mire <span className='color'>Charming vishal raj</span></p>
         </div>
         <div className="hero-latest-btn">
             <div>Latest Collection</div>
